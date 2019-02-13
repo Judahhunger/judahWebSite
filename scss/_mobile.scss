@@ -80,4 +80,14 @@
     .projects {
         grid-template-columns: 1fr;
     }
+
+    .boxes {
+        div{
+            word-break: break-all;
+        }
+       
+    }
+    
+    
+    
 }
